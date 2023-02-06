@@ -3207,7 +3207,7 @@ body.loaded .transition-delay-6000 {
   display: none;
 }
 .sticky-header .default-logo {
-  width: 100%;
+  width: 40%;
   height: 40px;
   background-repeat: no-repeat;
   background-image: url('../../media/logo-default.png');
@@ -3217,7 +3217,7 @@ body.loaded .transition-delay-6000 {
 }
 .fxt-offcanvas-wrap .sticky-logo,
 .sticky-header.sticky .sticky-logo {
-  width: 100%;
+  width: 40%;
   height: 40px;
   background-repeat: no-repeat;
   background-image: url('../../media/logo-sticky.png');
