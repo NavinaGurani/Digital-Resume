@@ -1,37 +1,3 @@
-/*
-Theme Name: Ree
-Theme URI: http://www.affixtheme.com/html/ree
-Author: AffixTheme
-Author URI: http://www.affixtheme.com/
-Description: Ree | Personal vCard/CV Portfolio Html Template + Rtl
-Version: 1.0.0
-  
-----------------------------------------------------------------
->>> TABLE OF CONTENTS
-----------------------------------------------------------------
-01. Typography
-02. Global
-03. Header
-04. Banner Section
-05. Video Background
-06. About Section 
-07. Skill Section 
-08. Service Section 
-09. Testimonial Section 
-10. Portfolio Section
-11. Progress Section
-12. Pricing Section
-13. Blog Section
-14. Contact Section
-15. Footer
-16. Sidebar
-17. Animation Style
-18. Switcher Style
-  
---------------------------------------------------------=------*/
-/*=======================================================================
-01. Typography 
-=========================================================================*/
 body {
   font-family: "Open Sans", sans-serif;
   font-size: 16px;
